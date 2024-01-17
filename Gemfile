@@ -20,7 +20,7 @@ gem "bootsnap", require: false
 # Authentication  #
 ###################
 
-# Empty for now
+gem "devise"
 
 ################
 # Front-end CSS #
