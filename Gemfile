@@ -43,7 +43,7 @@ gem "tailwindcss-rails"
 # Data Management  #
 ####################
 
-# Empty for now
+gem "pundit"
 
 ####################
 # Background Jobs  #
